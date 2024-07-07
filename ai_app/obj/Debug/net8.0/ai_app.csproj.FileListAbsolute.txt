@@ -1,0 +1,17 @@
+C:\Users\aonst\Downloads\ai_app\ai_app\bin\Debug\net8.0\ai_app.exe
+C:\Users\aonst\Downloads\ai_app\ai_app\bin\Debug\net8.0\ai_app.deps.json
+C:\Users\aonst\Downloads\ai_app\ai_app\bin\Debug\net8.0\ai_app.runtimeconfig.json
+C:\Users\aonst\Downloads\ai_app\ai_app\bin\Debug\net8.0\ai_app.dll
+C:\Users\aonst\Downloads\ai_app\ai_app\bin\Debug\net8.0\ai_app.pdb
+C:\Users\aonst\Downloads\ai_app\ai_app\obj\Debug\net8.0\ai_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aonst\Downloads\ai_app\ai_app\obj\Debug\net8.0\ai_app.AssemblyInfoInputs.cache
+C:\Users\aonst\Downloads\ai_app\ai_app\obj\Debug\net8.0\ai_app.AssemblyInfo.cs
+C:\Users\aonst\Downloads\ai_app\ai_app\obj\Debug\net8.0\ai_app.csproj.CoreCompileInputs.cache
+C:\Users\aonst\Downloads\ai_app\ai_app\obj\Debug\net8.0\ai_app.dll
+C:\Users\aonst\Downloads\ai_app\ai_app\obj\Debug\net8.0\refint\ai_app.dll
+C:\Users\aonst\Downloads\ai_app\ai_app\obj\Debug\net8.0\ai_app.pdb
+C:\Users\aonst\Downloads\ai_app\ai_app\obj\Debug\net8.0\ai_app.genruntimeconfig.cache
+C:\Users\aonst\Downloads\ai_app\ai_app\obj\Debug\net8.0\ref\ai_app.dll
+C:\Users\aonst\Downloads\ai_app\ai_app\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\aonst\Downloads\ai_app\ai_app\obj\Debug\net8.0\ai_app.csproj.AssemblyReference.cache
+C:\Users\aonst\Downloads\ai_app\ai_app\obj\Debug\net8.0\ai_app.csproj.Up2Date

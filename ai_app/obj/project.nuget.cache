@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AHkIOjV7Ns8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aonst\\Downloads\\ai_app\\ai_app\\ai_app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aonst\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
