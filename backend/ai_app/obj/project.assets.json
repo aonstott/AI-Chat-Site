@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aonst\\Downloads\\ai_app\\ai_app\\ai_app.csproj",
+      "projectUniqueName": "C:\\Users\\aonst\\Downloads\\ai_app\\backend\\ai_app\\ai_app.csproj",
       "projectName": "ai_app",
-      "projectPath": "C:\\Users\\aonst\\Downloads\\ai_app\\ai_app\\ai_app.csproj",
+      "projectPath": "C:\\Users\\aonst\\Downloads\\ai_app\\backend\\ai_app\\ai_app.csproj",
       "packagesPath": "C:\\Users\\aonst\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aonst\\Downloads\\ai_app\\ai_app\\obj\\",
+      "outputPath": "C:\\Users\\aonst\\Downloads\\ai_app\\backend\\ai_app\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aonst\\AppData\\Roaming\\NuGet\\NuGet.Config"
